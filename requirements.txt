@@ -1,0 +1,5 @@
+joblib==1.5.1
+numpy==2.3.3
+polars==1.33.1
+streamlit==1.49.1
+xgboost==3.0.3
