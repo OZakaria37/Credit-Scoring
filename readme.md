@@ -18,7 +18,7 @@
 
 ### streamlit run app.py
 
-### Upload a CSV file (with the same schema as training) to get predictions in a results table.
+### Upload a CSV file (with the same schema as the kaggle link above) to get predictions in a results table.
 
 # 🐳 Docker
 
